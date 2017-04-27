@@ -1,56 +1,56 @@
 <svg height="846" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="846" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-26 07:24:27 +0000 35792290 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-26 07:24:27 +0000      925 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-26 07:24:27 +0000     3269 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-26 07:24:27 +0000     2787 bytes  package.json</tspan>
-<tspan x="10" y="90">  4.  2017-04-26 07:24:27 +0000      581 bytes  package.json.back</tspan>
-<tspan x="10" y="106">  5.  2017-04-26 07:24:27 +0000     5557 bytes  plugin.xml</tspan>
-<tspan x="10" y="122">  6.  2017-04-26 07:24:27 +0000     2510 bytes  scripts/android-install.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-26 07:24:27 +0000     3929 bytes  src/android/EntryActivity.java</tspan>
-<tspan x="10" y="154">  8.  2017-04-26 07:24:27 +0000     3423 bytes  src/android/Util.java</tspan>
-<tspan x="10" y="170">  9.  2017-04-26 07:24:27 +0000       82 bytes  src/android/WXEntryActivity.java</tspan>
-<tspan x="10" y="186"> 10.  2017-04-26 07:24:27 +0000       86 bytes  src/android/WXPayEntryActivity.java</tspan>
-<tspan x="10" y="202"> 11.  2017-04-26 07:24:27 +0000    19726 bytes  src/android/Wechat.java</tspan>
-<tspan x="10" y="218"> 12.  2017-04-26 07:24:27 +0000   203129 bytes  src/android/libammsdk.jar</tspan>
-<tspan x="10" y="234"> 13.  2017-04-26 07:24:27 +0000      883 bytes  src/ios/CDVWechat.h</tspan>
-<tspan x="10" y="250"> 14.  2017-04-26 07:24:27 +0000    14480 bytes  src/ios/CDVWechat.m</tspan>
-<tspan x="10" y="266"> 15.  2017-04-26 07:24:27 +0000     2001 bytes  src/ios/libs/OpenSDK1.7.4/README.txt</tspan>
-<tspan x="10" y="282"> 16.  2017-04-26 07:24:27 +0000     5529 bytes  src/ios/libs/OpenSDK1.7.4/WXApi.h</tspan>
-<tspan x="10" y="298"> 17.  2017-04-26 07:24:27 +0000    22892 bytes  src/ios/libs/OpenSDK1.7.4/WXApiObject.h</tspan>
-<tspan x="10" y="314"> 18.  2017-04-26 07:24:27 +0000     1922 bytes  src/ios/libs/OpenSDK1.7.4/WechatAuthSDK.h</tspan>
-<tspan x="10" y="330"> 19.  2017-04-26 07:24:27 +0000 14480528 bytes  src/ios/libs/OpenSDK1.7.4/libWeChatSDK.a</tspan>
-<tspan x="10" y="346"> 20.  2017-04-26 07:24:27 +0000     2038 bytes  src/ios/libs/OpenSDK1.7.5/README.txt</tspan>
-<tspan x="10" y="362"> 21.  2017-04-26 07:24:27 +0000     5529 bytes  src/ios/libs/OpenSDK1.7.5/WXApi.h</tspan>
-<tspan x="10" y="378"> 22.  2017-04-26 07:24:27 +0000    22892 bytes  src/ios/libs/OpenSDK1.7.5/WXApiObject.h</tspan>
-<tspan x="10" y="394"> 23.  2017-04-26 07:24:27 +0000     1922 bytes  src/ios/libs/OpenSDK1.7.5/WechatAuthSDK.h</tspan>
-<tspan x="10" y="410"> 24.  2017-04-26 07:24:27 +0000 14410376 bytes  src/ios/libs/OpenSDK1.7.5/libWeChatSDK.a</tspan>
-<tspan x="10" y="426"> 25.  2017-04-26 07:24:27 +0000     3347 bytes  temp/README.md</tspan>
-<tspan x="10" y="442"> 26.  2017-04-26 07:24:27 +0000     1870 bytes  temp/scripts/android-install.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-26 07:24:27 +0000     5739 bytes  temp/src/android/Util.java</tspan>
-<tspan x="10" y="474"> 28.  2017-04-26 07:24:27 +0000     2918 bytes  temp/src/android/WXEntryActivity.java</tspan>
-<tspan x="10" y="490"> 29.  2017-04-26 07:24:27 +0000    12555 bytes  temp/src/android/Wechat.java</tspan>
-<tspan x="10" y="506"> 30.  2017-04-26 07:24:27 +0000   149240 bytes  temp/src/android/libammsdk.jar</tspan>
-<tspan x="10" y="522"> 31.  2017-04-26 07:24:27 +0000      771 bytes  temp/src/ios/CDVWechat.h</tspan>
-<tspan x="10" y="538"> 32.  2017-04-26 07:24:27 +0000    10764 bytes  temp/src/ios/CDVWechat.m</tspan>
-<tspan x="10" y="554"> 33.  2017-04-26 07:24:27 +0000     5028 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5/WX\</tspan>
+<tspan x="10" y="26">  0.  2017-04-27 20:19:16 +0000 35792290 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-27 20:19:16 +0000      925 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-27 20:19:16 +0000     3269 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-27 20:19:16 +0000     2787 bytes  package.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-27 20:19:16 +0000      581 bytes  package.json.back</tspan>
+<tspan x="10" y="106">  5.  2017-04-27 20:19:16 +0000     5557 bytes  plugin.xml</tspan>
+<tspan x="10" y="122">  6.  2017-04-27 20:19:16 +0000     2510 bytes  scripts/android-install.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-27 20:19:16 +0000     3929 bytes  src/android/EntryActivity.java</tspan>
+<tspan x="10" y="154">  8.  2017-04-27 20:19:16 +0000     3423 bytes  src/android/Util.java</tspan>
+<tspan x="10" y="170">  9.  2017-04-27 20:19:16 +0000       82 bytes  src/android/WXEntryActivity.java</tspan>
+<tspan x="10" y="186"> 10.  2017-04-27 20:19:16 +0000       86 bytes  src/android/WXPayEntryActivity.java</tspan>
+<tspan x="10" y="202"> 11.  2017-04-27 20:19:16 +0000    19726 bytes  src/android/Wechat.java</tspan>
+<tspan x="10" y="218"> 12.  2017-04-27 20:19:16 +0000   203129 bytes  src/android/libammsdk.jar</tspan>
+<tspan x="10" y="234"> 13.  2017-04-27 20:19:16 +0000      883 bytes  src/ios/CDVWechat.h</tspan>
+<tspan x="10" y="250"> 14.  2017-04-27 20:19:16 +0000    14480 bytes  src/ios/CDVWechat.m</tspan>
+<tspan x="10" y="266"> 15.  2017-04-27 20:19:16 +0000     2001 bytes  src/ios/libs/OpenSDK1.7.4/README.txt</tspan>
+<tspan x="10" y="282"> 16.  2017-04-27 20:19:16 +0000     5529 bytes  src/ios/libs/OpenSDK1.7.4/WXApi.h</tspan>
+<tspan x="10" y="298"> 17.  2017-04-27 20:19:16 +0000    22892 bytes  src/ios/libs/OpenSDK1.7.4/WXApiObject.h</tspan>
+<tspan x="10" y="314"> 18.  2017-04-27 20:19:16 +0000     1922 bytes  src/ios/libs/OpenSDK1.7.4/WechatAuthSDK.h</tspan>
+<tspan x="10" y="330"> 19.  2017-04-27 20:19:16 +0000 14480528 bytes  src/ios/libs/OpenSDK1.7.4/libWeChatSDK.a</tspan>
+<tspan x="10" y="346"> 20.  2017-04-27 20:19:16 +0000     2038 bytes  src/ios/libs/OpenSDK1.7.5/README.txt</tspan>
+<tspan x="10" y="362"> 21.  2017-04-27 20:19:16 +0000     5529 bytes  src/ios/libs/OpenSDK1.7.5/WXApi.h</tspan>
+<tspan x="10" y="378"> 22.  2017-04-27 20:19:16 +0000    22892 bytes  src/ios/libs/OpenSDK1.7.5/WXApiObject.h</tspan>
+<tspan x="10" y="394"> 23.  2017-04-27 20:19:16 +0000     1922 bytes  src/ios/libs/OpenSDK1.7.5/WechatAuthSDK.h</tspan>
+<tspan x="10" y="410"> 24.  2017-04-27 20:19:16 +0000 14410376 bytes  src/ios/libs/OpenSDK1.7.5/libWeChatSDK.a</tspan>
+<tspan x="10" y="426"> 25.  2017-04-27 20:19:16 +0000     3347 bytes  temp/README.md</tspan>
+<tspan x="10" y="442"> 26.  2017-04-27 20:19:16 +0000     1870 bytes  temp/scripts/android-install.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-27 20:19:16 +0000     5739 bytes  temp/src/android/Util.java</tspan>
+<tspan x="10" y="474"> 28.  2017-04-27 20:19:16 +0000     2918 bytes  temp/src/android/WXEntryActivity.java</tspan>
+<tspan x="10" y="490"> 29.  2017-04-27 20:19:16 +0000    12555 bytes  temp/src/android/Wechat.java</tspan>
+<tspan x="10" y="506"> 30.  2017-04-27 20:19:16 +0000   149240 bytes  temp/src/android/libammsdk.jar</tspan>
+<tspan x="10" y="522"> 31.  2017-04-27 20:19:16 +0000      771 bytes  temp/src/ios/CDVWechat.h</tspan>
+<tspan x="10" y="538"> 32.  2017-04-27 20:19:16 +0000    10764 bytes  temp/src/ios/CDVWechat.m</tspan>
+<tspan x="10" y="554"> 33.  2017-04-27 20:19:16 +0000     5028 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5/WX\</tspan>
 <tspan x="10" y="570">Api.h</tspan>
-<tspan x="10" y="586"> 34.  2017-04-26 07:24:27 +0000    17401 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5/WX\</tspan>
+<tspan x="10" y="586"> 34.  2017-04-27 20:19:16 +0000    17401 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5/WX\</tspan>
 <tspan x="10" y="602">ApiObject.h</tspan>
-<tspan x="10" y="618"> 35.  2017-04-26 07:24:27 +0000  4171992 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5/li\</tspan>
+<tspan x="10" y="618"> 35.  2017-04-27 20:19:16 +0000  4171992 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5/li\</tspan>
 <tspan x="10" y="634">bWeChatSDK.a</tspan>
-<tspan x="10" y="650"> 36.  2017-04-26 07:24:27 +0000      509 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5/re\</tspan>
+<tspan x="10" y="650"> 36.  2017-04-27 20:19:16 +0000      509 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5/re\</tspan>
 <tspan x="10" y="666">ad_me.txt</tspan>
-<tspan x="10" y="682"> 37.  2017-04-26 07:24:27 +0000     5028 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5_On\</tspan>
+<tspan x="10" y="682"> 37.  2017-04-27 20:19:16 +0000     5028 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5_On\</tspan>
 <tspan x="10" y="698">lyIphone/WXApi.h</tspan>
-<tspan x="10" y="714"> 38.  2017-04-26 07:24:27 +0000    17401 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5_On\</tspan>
+<tspan x="10" y="714"> 38.  2017-04-27 20:19:16 +0000    17401 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5_On\</tspan>
 <tspan x="10" y="730">lyIphone/WXApiObject.h</tspan>
-<tspan x="10" y="746"> 39.  2017-04-26 07:24:27 +0000  2162496 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5_On\</tspan>
+<tspan x="10" y="746"> 39.  2017-04-27 20:19:16 +0000  2162496 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5_On\</tspan>
 <tspan x="10" y="762">lyIphone/libWeChatSDK.a</tspan>
-<tspan x="10" y="778"> 40.  2017-04-26 07:24:27 +0000      509 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5_On\</tspan>
+<tspan x="10" y="778"> 40.  2017-04-27 20:19:16 +0000      509 bytes  temp/src/ios/libs/WeChatSDK_1.5/WeChatSDK_1.5_On\</tspan>
 <tspan x="10" y="794">lyIphone/read_me.txt</tspan>
-<tspan x="10" y="810"> 41.  2017-04-26 07:24:27 +0000     3150 bytes  temp/www/wechat.js</tspan>
-<tspan x="10" y="826"> 42.  2017-04-26 07:24:27 +0000     4576 bytes  www/wechat.js</tspan>
+<tspan x="10" y="810"> 41.  2017-04-27 20:19:16 +0000     3150 bytes  temp/www/wechat.js</tspan>
+<tspan x="10" y="826"> 42.  2017-04-27 20:19:16 +0000     4576 bytes  www/wechat.js</tspan>
 </text>
 </svg>
